@@ -1,6 +1,6 @@
 # JavaScript
-hosting firebase : <a href="https://defacehtml.web.app">defacehtml.web.app</a>
+<b>hosting firebase :</b> <a href="https://defacehtml.web.app">defacehtml.web.app</a>
 
-source code connection : localhost/defacehtml.web.app
+<b>source code connection :</b> localhost/defacehtml.web.app
 
-dekode script : localhost/DEKODE-defacehtml.web.app
+<b>dekode script :</b> localhost/DEKODE-defacehtml.web.app
